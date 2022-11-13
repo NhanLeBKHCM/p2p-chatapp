@@ -34,7 +34,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "build:app": "react-app-rewired build",
     "build:clean": "rimraf 'build/!(index.html)'",
     "build": "npm run build:app && npm run build:clean",
