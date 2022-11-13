@@ -2,7 +2,7 @@
   "name": "example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://michal-wrzosek.github.io/p2p-chat",
+  "homepage": "https://p2p-chatapp.herokuapp.com",
   "dependencies": {
     "copy-to-clipboard": "^3.3.1",
     "crypto-js": "^4.0.0",
